@@ -32,3 +32,6 @@ vectorstore = Chroma.from_documents(docs, embedding=embeddings, collection_name=
 # 4. 儲存資料庫
 vectorstore.persist()
 print("✅ Chroma 向量資料庫建立完成")
+# 如果你有保留原始 docs，也可以直接列印
+for doc in docs:
+    print(doc.page_content)
