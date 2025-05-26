@@ -1,0 +1,32 @@
+[
+  {
+    "term": "滿壘",
+    "english": "Bases loaded",
+    "definition": "所有壘包上都有跑者，下一棒有機會一口氣得分。",
+    "example": "現在是滿壘，投手壓力非常大。"
+  },
+  {
+    "term": "打帶跑",
+    "english": "Hit-and-run",
+    "definition": "一種戰術，跑者起跑的同時，打者也嘗試擊球，增加跑者推進成功率。",
+    "example": "教練這時候下達了打帶跑戰術。"
+  },
+  {
+    "term": "犧牲打",
+    "english": "Sacrifice fly",
+    "definition": "打者故意把球打到外野，讓壘上跑者趁機得分，即使自己出局。",
+    "example": "他靠一支犧牲飛球幫球隊追回一分。"
+  },
+  {
+    "term": "雙殺",
+    "english": "Double play",
+    "definition": "守備方在同一個球局中解決兩個跑者，常見於內野傳接球。",
+    "example": "二壘手和游擊手聯手完成了一次雙殺。"
+  },
+  {
+    "term": "三振",
+    "english": "Strikeout",
+    "definition": "打者被投手三次好球解決，未能擊中球。",
+    "example": "這名打者已經連續被三振兩次了。"
+  }
+]
