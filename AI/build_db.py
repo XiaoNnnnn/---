@@ -27,7 +27,7 @@ embeddings = AzureOpenAIEmbeddings(
     api_version=os.getenv("AZURE_OPENAI_API_VERSION"),
     chunk_size=1000,  # 新增這一行
 )
-vectorstore = Chroma.from_documents(docs, embedding=embeddings, collection_name="baseball-glossary")
+vectorstore = Chroma.from_documents(docs, embedding=embeddings, collection_name="baseball-glossary",persist_directory="c:/Users/88698/Desktop/AI/---/AI/chroma")
 
 # 4. 儲存資料庫
 vectorstore.persist()

@@ -1,2 +1,4 @@
 # 忽略 .env 檔
 .env
+# filepath: c:\Users\88698\Desktop\AI\---\.gitignore
+chroma/
